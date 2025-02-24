@@ -1,6 +1,6 @@
 {
   "name": "@hutiwephy/ape-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Authenticate and Encrypt HTTP with User Credentials (Not TLS-SRP) (ExpressJS Implementation).",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/hutiwephy/ape-express#readme",
   "dependencies": {
-    "@hutiwephy/ape": "^1.0.0",
+    "@hutiwephy/ape": "^1.0.1",
     "express": "^4.21.2"
   }
 }
